@@ -1,0 +1,72 @@
+{
+    "profile": {
+        "age": 16,
+        "safe_search": false
+    },
+    "moderationCategories": [
+        {
+            "name": "Toxic",
+            "confidence": 0.7432225
+        },
+        {
+            "name": "Insult",
+            "confidence": 0.60947484
+        },
+        {
+            "name": "Profanity",
+            "confidence": 0.66304255
+        },
+        {
+            "name": "Derogatory",
+            "confidence": 0.5992919
+        },
+        {
+            "name": "Sexual",
+            "confidence": 0.48161134
+        },
+        {
+            "name": "Death, Harm & Tragedy",
+            "confidence": 0.115384616
+        },
+        {
+            "name": "Violent",
+            "confidence": 0.18674698
+        },
+        {
+            "name": "Firearms & Weapons",
+            "confidence": 0.018181818
+        },
+        {
+            "name": "Public Safety",
+            "confidence": 0.020568071
+        },
+        {
+            "name": "Health",
+            "confidence": 0.07106599
+        },
+        {
+            "name": "Religion & Belief",
+            "confidence": 0.021505376
+        },
+        {
+            "name": "Illicit Drugs",
+            "confidence": 0.7
+        },
+        {
+            "name": "War & Conflict",
+            "confidence": 0.010416667
+        },
+        {
+            "name": "Politics",
+            "confidence": 0.03460838
+        },
+        {
+            "name": "Finance",
+            "confidence": 0.042168673
+        },
+        {
+            "name": "Legal",
+            "confidence": 0.17687075
+        }
+    ],
+}
